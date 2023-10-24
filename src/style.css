@@ -1,0 +1,31 @@
+.container {
+  font-family: "Montserrat", sans-serif;
+  padding-top: 20px;
+}
+.today-sun {
+  font-size: 150px;
+  color: #ffe168;
+}
+
+.current-temp {
+  font-size: 50px;
+  position: relative;
+}
+
+.units {
+  font-size: 15px;
+  position: relative;
+  top: -25px;
+}
+
+.row {
+  margin-bottom: 50px;
+}
+
+.week-forecast {
+  font-size: 20px;
+}
+
+.week-image {
+  font-size: 30px;
+}
